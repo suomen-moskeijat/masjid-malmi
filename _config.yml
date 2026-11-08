@@ -1,0 +1,10 @@
+# Masjid Malmi (Yusuf Islam Keskus) – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Masjid Malmi (Yusuf Islam Keskus)"
+description: "Masjid Malmi (Yusuf Islam Keskus), Soidinkuja 1, 00700 Helsinki. Rukousajat, tapahtumat ja toiminta."
+moskeija: masjid-malmi-yusuf-islam-keskus     # tiedosto _moskeijat/masjid-malmi-yusuf-islam-keskus.md
+
+# Osoite: https://suomen-moskeijat.github.io/masjid-malmi/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/masjid-malmi"
